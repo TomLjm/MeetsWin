@@ -18,17 +18,11 @@
 
 ## 🎬 一分钟看懂面翼
 
-点击播放，看看面翼是怎么帮你准备面试的：
-
-<video src="https://github.com/TomLjm/MeetsWin/raw/main/assets/demo-tutorial.mp4" controls="controls" width="100%"></video>
-
-> 完整使用教程请访问 [官网教程页](https://meetswin.com.cn)。
-
-### 🎧 实战演练实录：真实面试场景
-
-在腾讯会议等视频面试中，面翼实时转录对方提问并给出结构化应答参考：
+点击播放，看看面翼在真实视频面试中如何实时辅助你：
 
 https://user-images.githubusercontent.com/227021865/676658080-89b40d29-1fcb-482c-b4d2-d150da464297.mp4
+
+> 完整使用教程请访问 [官网](https://meetswin.com.cn)。
 
 ---
 
