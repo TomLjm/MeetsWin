@@ -28,7 +28,7 @@
 
 在腾讯会议等视频面试中，面翼实时转录对方提问并给出结构化应答参考：
 
-<video src="https://github.com/TomLjm/MeetsWin/raw/main/assets/demo-copilot-interview.mp4" controls="controls" width="100%"></video>
+https://user-images.githubusercontent.com/227021865/676658080-89b40d29-1fcb-482c-b4d2-d150da464297.mp4
 
 ---
 
