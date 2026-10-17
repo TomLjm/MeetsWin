@@ -20,7 +20,7 @@
 
 点击播放，看看面翼是怎么帮你准备面试的：
 
-<video src="assets/demo-tutorial.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/TomLjm/MeetsWin/raw/main/assets/demo-tutorial.mp4" controls="controls" width="100%"></video>
 
 > 完整使用教程请访问 [官网教程页](https://meetswin.com.cn)。
 
@@ -28,7 +28,7 @@
 
 在腾讯会议等视频面试中，面翼实时转录对方提问并给出结构化应答参考：
 
-<video src="assets/demo-copilot-interview.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/TomLjm/MeetsWin/raw/main/assets/demo-copilot-interview.mp4" controls="controls" width="100%"></video>
 
 ---
 
