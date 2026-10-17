@@ -24,6 +24,8 @@ https://user-images.githubusercontent.com/227021865/676658080-89b40d29-1fcb-482c
 
 > 完整使用教程请访问 [官网](https://meetswin.com.cn)。
 
+<img src="assets/screenshot-copilot-demo.png" width="640" alt="实战演练：腾讯会议视频面试中的面翼实时辅助">
+
 ---
 
 ## ✨ 核心功能
